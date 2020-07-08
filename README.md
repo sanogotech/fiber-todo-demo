@@ -2,6 +2,8 @@
 
 This is the source code of the demo application that I made for a blog post. It's essentially an intro to [Fiber](https://github.com/gofiber/fiber), an Express-like web framework written in Go.
 
+https://dev.to/jozsefsallai/creating-fast-apis-in-go-using-fiber-59m9
+
 ## Prerequisites
 
   * Go
